@@ -1,6 +1,6 @@
 {
-  "count": 54861,
-  "uniques": 11058,
+  "count": 54932,
+  "uniques": 11060,
   "views": [
     {
       "timestamp": "2021-01-07T00:00:00Z",
@@ -6356,6 +6356,11 @@
       "timestamp": "2024-09-05T00:00:00Z",
       "count": 68,
       "uniques": 7
+    },
+    {
+      "timestamp": "2024-09-06T00:00:00Z",
+      "count": 71,
+      "uniques": 2
     }
   ]
 }

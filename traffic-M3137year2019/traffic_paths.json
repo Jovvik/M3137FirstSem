@@ -8,20 +8,14 @@
   {
     "path": "/Jovvik/M3137year2019",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 39,
-    "uniques": 25
+    "count": 38,
+    "uniques": 23
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/matlog/4sem",
     "title": "M3137year2019/matlog/4sem at master · Jovvik/M3137year2019 · GitHub",
-    "count": 32,
-    "uniques": 4
-  },
-  {
-    "path": "/Jovvik/M3137year2019/tree/master/matlog/4sem/practice",
-    "title": "M3137year2019/matlog/4sem/practice at master · Jovvik/M3137year2019 · GitHub",
     "count": 28,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/probability%20theory/4sem/main.pdf",
@@ -32,8 +26,14 @@
   {
     "path": "/Jovvik/M3137year2019/tree/master/statistics/5sem",
     "title": "M3137year2019/statistics/5sem at master · Jovvik/M3137year2019 · GitHub",
-    "count": 19,
-    "uniques": 4
+    "count": 21,
+    "uniques": 5
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/master/matlog/4sem/practice",
+    "title": "M3137year2019/matlog/4sem/practice at master · Jovvik/M3137year2019 · GitHub",
+    "count": 21,
+    "uniques": 3
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem",
@@ -42,10 +42,10 @@
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/master/matlog/4sem/practice/1.tex",
-    "title": "M3137year2019/matlog/4sem/practice/1.tex at master · Jovvik/M3137year2019 · G...",
-    "count": 17,
-    "uniques": 3
+    "path": "/Jovvik/M3137year2019/blob/master/discrete/1.md",
+    "title": "M3137year2019/discrete/1.md at master · Jovvik/M3137year2019 · GitHub",
+    "count": 14,
+    "uniques": 4
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master",
@@ -54,9 +54,9 @@
     "uniques": 4
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/master/discrete/1.md",
-    "title": "M3137year2019/discrete/1.md at master · Jovvik/M3137year2019",
+    "path": "/Jovvik/M3137year2019/blob/master/teorcod/7sem/1.tex",
+    "title": "M3137year2019/teorcod/7sem/1.tex at master · Jovvik/M3137year2019 · GitHub",
     "count": 12,
-    "uniques": 4
+    "uniques": 2
   }
 ]

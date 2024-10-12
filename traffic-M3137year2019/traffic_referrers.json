@@ -5,14 +5,14 @@
     "uniques": 15
   },
   {
+    "referrer": "Google",
+    "count": 43,
+    "uniques": 11
+  },
+  {
     "referrer": "yandex.ru",
     "count": 43,
     "uniques": 1
-  },
-  {
-    "referrer": "Google",
-    "count": 37,
-    "uniques": 9
   },
   {
     "referrer": "web.telegram.org",

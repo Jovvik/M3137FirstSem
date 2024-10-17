@@ -2,14 +2,14 @@
   {
     "path": "/Jovvik/M3137year2019/blob/master/discrete/2.md",
     "title": "M3137year2019/discrete/2.md at master · Jovvik/M3137year2019",
-    "count": 64,
+    "count": 55,
     "uniques": 1
   },
   {
     "path": "/Jovvik/M3137year2019",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 42,
-    "uniques": 31
+    "count": 41,
+    "uniques": 29
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
@@ -20,25 +20,13 @@
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/practice/5.pdf",
     "title": "M3137year2019/matlog/4sem/practice/5.pdf at pdfs · Jovvik/M3137year2019",
-    "count": 18,
-    "uniques": 8
+    "count": 11,
+    "uniques": 5
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem",
     "title": "M3137year2019/teorcod/7sem at master · Jovvik/M3137year2019",
     "count": 10,
-    "uniques": 5
-  },
-  {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/practice/2.pdf",
-    "title": "M3137year2019/matlog/4sem/practice/2.pdf at pdfs · Jovvik/M3137year2019",
-    "count": 9,
-    "uniques": 7
-  },
-  {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/practice/4.pdf",
-    "title": "M3137year2019/matlog/4sem/practice/4.pdf at pdfs · Jovvik/M3137year2019",
-    "count": 9,
     "uniques": 5
   },
   {
@@ -49,14 +37,26 @@
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/main.pdf",
-    "title": "M3137year2019/matlog/4sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
+    "title": "M3137year2019/matlog/4sem/main.pdf at pdfs · Jovvik/M3137year2019",
     "count": 7,
-    "uniques": 5
+    "uniques": 4
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/analysis",
     "title": "M3137year2019/analysis at master · Jovvik/M3137year2019 · GitHub",
     "count": 6,
     "uniques": 5
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/pdfs",
+    "title": "Jovvik/M3137year2019 at pdfs",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/master",
+    "title": "M3137year2019/ at master · Jovvik/M3137year2019",
+    "count": 5,
+    "uniques": 4
   }
 ]

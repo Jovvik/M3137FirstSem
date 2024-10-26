@@ -2,13 +2,13 @@
   {
     "path": "/Jovvik/M3137year2019",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 29,
-    "uniques": 19
+    "count": 32,
+    "uniques": 20
   },
   {
     "path": "/Jovvik/M3137year2019/blob/master/discrete/2.md",
     "title": "M3137year2019/discrete/2.md at master · Jovvik/M3137year2019 · GitHub",
-    "count": 27,
+    "count": 24,
     "uniques": 12
   },
   {
@@ -20,13 +20,19 @@
   {
     "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem",
     "title": "M3137year2019/teorcod/7sem at master · Jovvik/M3137year2019",
-    "count": 8,
-    "uniques": 3
+    "count": 7,
+    "uniques": 2
   },
   {
     "path": "/Jovvik/M3137year2019/tree/pdfs",
     "title": "Jovvik/M3137year2019 at pdfs",
     "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/Jovvik/M3137year2019/blob/pdfs/analysis/1sem/final.pdf",
+    "title": "M3137year2019/analysis/1sem/final.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
+    "count": 5,
     "uniques": 3
   },
   {
@@ -36,8 +42,14 @@
     "uniques": 3
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/analysis/1sem/final.pdf",
-    "title": "M3137year2019/analysis/1sem/final.pdf at pdfs · Jovvik/M3137year2019",
+    "path": "/Jovvik/M3137year2019/blob/pdfs/diffeq/3sem/final.pdf",
+    "title": "M3137year2019/diffeq/3sem/final.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/final.pdf",
+    "title": "M3137year2019/statistics/5sem/final.pdf at pdfs · Jovvik/M3137year2019",
     "count": 4,
     "uniques": 2
   },
@@ -46,17 +58,5 @@
     "title": "M3137year2019/linear algebra/1sem/main.pdf at pdfs · Jovvik/M3137year2019 · G...",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/Jovvik/M3137year2019/tree/master/analysis",
-    "title": "M3137year2019/analysis at master · Jovvik/M3137year2019",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/Jovvik/M3137year2019/tree/master",
-    "title": "M3137year2019/ at master · Jovvik/M3137year2019",
-    "count": 3,
-    "uniques": 2
   }
 ]

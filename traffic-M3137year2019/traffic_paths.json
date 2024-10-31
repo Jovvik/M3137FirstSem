@@ -2,32 +2,26 @@
   {
     "path": "/Jovvik/M3137year2019",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 31,
-    "uniques": 20
+    "count": 34,
+    "uniques": 21
   },
   {
     "path": "/Jovvik/M3137year2019/blob/master/discrete/2.md",
     "title": "M3137year2019/discrete/2.md at master · Jovvik/M3137year2019 · GitHub",
-    "count": 22,
-    "uniques": 10
+    "count": 19,
+    "uniques": 8
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
     "title": "M3137year2019/statistics/5sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
-    "count": 14,
-    "uniques": 11
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/matlog/4sem",
     "title": "M3137year2019/matlog/4sem at master · Jovvik/M3137year2019 · GitHub",
     "count": 6,
     "uniques": 4
-  },
-  {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/main.pdf",
-    "title": "M3137year2019/matlog/4sem/main.pdf at pdfs · Jovvik/M3137year2019",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/diffeq/3sem/final.pdf",
@@ -54,9 +48,15 @@
     "uniques": 3
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/master/matlog/4sem/practice/images/1.3.e.png",
-    "title": "M3137year2019/matlog/4sem/practice/images/1.3.e.png at master · Jovvik/M3137y...",
-    "count": 2,
+    "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/main.pdf",
+    "title": "M3137year2019/matlog/4sem/main.pdf at pdfs · Jovvik/M3137year2019",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Jovvik/M3137year2019/issues/11",
+    "title": "Лемма о связности отрезка · Issue #11 · Jovvik/M3137year2019 · GitHub",
+    "count": 3,
     "uniques": 2
   }
 ]

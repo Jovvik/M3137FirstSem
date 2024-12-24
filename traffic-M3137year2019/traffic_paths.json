@@ -8,8 +8,14 @@
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/teorcod/7sem/main.pdf",
     "title": "M3137year2019/teorcod/7sem/main.pdf at pdfs · Jovvik/M3137year2019",
-    "count": 5,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem",
+    "title": "M3137year2019/teorcod/7sem at master · Jovvik/M3137year2019 · GitHub",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
@@ -18,14 +24,8 @@
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/master/teorcod/7sem/practice/4.ipynb",
-    "title": "M3137year2019/teorcod/7sem/practice/4.ipynb at master · Jovvik/M3137year2019",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem",
-    "title": "M3137year2019/teorcod/7sem at master · Jovvik/M3137year2019 · GitHub",
+    "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem/practice",
+    "title": "M3137year2019/teorcod/7sem/practice at master · Jovvik/M3137year2019 · GitHub",
     "count": 3,
     "uniques": 3
   },
@@ -36,26 +36,26 @@
     "uniques": 2
   },
   {
+    "path": "/Jovvik/M3137year2019/blob/master/teorcod/7sem/practice/4.ipynb",
+    "title": "M3137year2019/teorcod/7sem/practice/4.ipynb at master · Jovvik/M3137year2019",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Jovvik/M3137year2019/blob/pdfs/probability%20theory/4sem/main.pdf",
     "title": "M3137year2019/probability theory/4sem/main.pdf at pdfs · Jovvik/M3137year2019...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/final.pdf",
-    "title": "M3137year2019/statistics/5sem/final.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Jovvik/M3137year2019/tree/master/teorcod/7sem/practice",
-    "title": "M3137year2019/teorcod/7sem/practice at master · Jovvik/M3137year2019 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Jovvik/M3137year2019/blob/pdfs/matlog/4sem/practice/5.pdf",
     "title": "M3137year2019/matlog/4sem/practice/5.pdf at pdfs · Jovvik/M3137year2019",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/master/translation%20methods/5sem",
+    "title": "M3137year2019/translation methods/5sem at master · Jovvik/M3137year2019 · Git...",
     "count": 2,
     "uniques": 1
   }

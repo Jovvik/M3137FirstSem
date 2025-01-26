@@ -2,18 +2,12 @@
   {
     "path": "/Jovvik/M3137year2019",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 19,
+    "count": 17,
     "uniques": 15
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/teorcod/7sem/main.pdf",
-    "title": "M3137year2019/teorcod/7sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
-    "count": 13,
-    "uniques": 9
-  },
-  {
     "path": "/Jovvik/M3137year2019/blob/pdfs/diffeq/3sem/final.pdf",
-    "title": "M3137year2019/diffeq/3sem/final.pdf at pdfs · Jovvik/M3137year2019",
+    "title": "M3137year2019/diffeq/3sem/final.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
     "count": 11,
     "uniques": 4
   },
@@ -30,9 +24,15 @@
     "uniques": 6
   },
   {
+    "path": "/Jovvik/M3137year2019/blob/pdfs/teorcod/7sem/main.pdf",
+    "title": "M3137year2019/teorcod/7sem/main.pdf at pdfs · Jovvik/M3137year2019",
+    "count": 8,
+    "uniques": 5
+  },
+  {
     "path": "/Jovvik/M3137year2019/tree/master",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 5,
+    "count": 6,
     "uniques": 1
   },
   {
@@ -48,14 +48,14 @@
     "uniques": 3
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
-    "title": "M3137year2019/statistics/5sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
+    "path": "/Jovvik/M3137year2019/blob/master/diffeq/3sem/final.tex",
+    "title": "M3137year2019/diffeq/3sem/final.tex at master · Jovvik/M3137year2019",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019/tree/master/analysis/1sem",
-    "title": "M3137year2019/analysis/1sem at master · Jovvik/M3137year2019 · GitHub",
+    "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
+    "title": "M3137year2019/statistics/5sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
     "count": 3,
     "uniques": 2
   }

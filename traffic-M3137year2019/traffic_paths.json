@@ -14,14 +14,14 @@
   {
     "path": "/Jovvik/M3137year2019/tree/master",
     "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 8,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/Jovvik/M3137year2019/blob/pdfs/probability%20theory/4sem/main.pdf",
     "title": "M3137year2019/probability theory/4sem/main.pdf at pdfs · Jovvik/M3137year2019...",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/Jovvik/M3137year2019/blob/master/functional%20programming/5sem/1.tex",
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/statistics/5sem/main.pdf",
-    "title": "M3137year2019/statistics/5sem/main.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Jovvik/M3137year2019/tree/master/functional%20programming/5sem",
     "title": "M3137year2019/functional programming/5sem at master · Jovvik/M3137year2019",
     "count": 2,
@@ -58,5 +52,11 @@
     "title": "GitHub - Jovvik/M3137year2019 at pdfs",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/Jovvik/M3137year2019/blob/master/diffeq/3sem/final.tex",
+    "title": "M3137year2019/diffeq/3sem/final.tex at master · Jovvik/M3137year2019",
+    "count": 2,
+    "uniques": 1
   }
 ]

@@ -1,27 +1,21 @@
 [
   {
-    "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra",
-    "title": "M3137year2019/linear algebra at master · Jovvik/M3137year2019",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/Jovvik/M3137year2019/blob/pdfs/diffeq/3sem/final.pdf",
-    "title": "M3137year2019/diffeq/3sem/final.pdf at pdfs · Jovvik/M3137year2019 · GitHub",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/Jovvik/M3137year2019/blob/master/linear%20algebra/2sem/1.tex",
     "title": "M3137year2019/linear algebra/2sem/1.tex at master · Jovvik/M3137year2019",
     "count": 6,
     "uniques": 2
   },
   {
-    "path": "/Jovvik/M3137year2019",
-    "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
+    "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra",
+    "title": "M3137year2019/linear algebra at master · Jovvik/M3137year2019",
     "count": 5,
-    "uniques": 5
+    "uniques": 3
+  },
+  {
+    "path": "/Jovvik/M3137year2019",
+    "title": "GitHub - Jovvik/M3137year2019: Конспекты М3*37 2019 года",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master",
@@ -36,12 +30,6 @@
     "uniques": 3
   },
   {
-    "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra/1sem",
-    "title": "M3137year2019/linear algebra/1sem at master · Jovvik/M3137year2019",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra/2sem/practice",
     "title": "M3137year2019/linear algebra/2sem/practice at master · Jovvik/M3137year2019",
     "count": 3,
@@ -54,8 +42,20 @@
     "uniques": 1
   },
   {
+    "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra/1sem",
+    "title": "M3137year2019/linear algebra/1sem at master · Jovvik/M3137year2019",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/Jovvik/M3137year2019/blame/master/linear%20algebra/2sem/1.tex",
     "title": "Blaming M3137year2019/linear algebra/2sem/1.tex at master · Jovvik/M3137year2...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Jovvik/M3137year2019/blob/master/linear%20algebra/2sem/final.tex",
+    "title": "M3137year2019/linear algebra/2sem/final.tex at master · Jovvik/M3137year2019",
     "count": 1,
     "uniques": 1
   }

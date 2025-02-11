@@ -18,16 +18,16 @@
     "uniques": 4
   },
   {
-    "path": "/Jovvik/M3137year2019/tree/master",
-    "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra/2sem",
     "title": "M3137year2019/linear algebra/2sem at master · Jovvik/M3137year2019",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/Jovvik/M3137year2019/tree/master",
+    "title": "Jovvik/M3137year2019: Конспекты М3*37 2019 года",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/Jovvik/M3137year2019/tree/master/linear%20algebra/2sem/practice",
